@@ -7,17 +7,6 @@ namespace CyberSecurityChatbot
 {
     internal class AudioHelper
     {
-        public static void PlayGreeting()
-        {
-            try
-            {
-                SoundPlayer player = new SoundPlayer("welcome.wav");
-                player.PlaySync();
-            }
-            catch
-            {
-                Console.WriteLine("Audio could not be played.");
-            }
-        }
+
     }
 }
