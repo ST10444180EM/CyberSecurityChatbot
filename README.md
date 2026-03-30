@@ -95,7 +95,8 @@ This project helped me understand the basics of:
 - Using GitHub for version control and CI
 It also gave me insight into how simple applications can be enhanced using multimedia elements like sound and visual design.
 
-
+# Youtube Link
+https://youtu.be/7_HJ-cCQQWY
 
 
 In Part 2, this chatbot will be extended into a GUI-based application with:
