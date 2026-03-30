@@ -105,5 +105,3 @@ In Part 2, this chatbot will be extended into a GUI-based application with:
 - Improved user experience
 
 
-
-Thank you for reviewing my project 🙂
